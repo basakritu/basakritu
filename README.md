@@ -6,7 +6,7 @@
 ---
 
 ## 🧪 About Me
-I’m passionate about applying machine learning and artificial intelligence in healthcare, with a strong focus on medical image segmentation, radiomics, and predictive modeling. My work involves multimodal data analysis, radiomic feature engineering, and developing robust ML pipelines for clinical decision support.
+I’m passionate about applying machine learning and artificial intelligence in healthcare, with a strong focus on medical image segmentation, predictive modeling, and topological data analysis. My work involves multimodal data analysis, radiomic feature engineering, and developing robust ML pipelines for clinical decision support.
 
 ---
 
