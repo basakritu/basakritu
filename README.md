@@ -47,8 +47,7 @@ I bridge the gap between complex mathematical theory and high-performance ML pip
 ---
 
 ## 📜 Publications
-- *Skin Lesion Subtype Classification Using Lesion and Border Radiomic Features*  
-  *(2025, Submitted - Medical Image Analysis)*
+- Skin Lesion Subtype Classification Using Lesion and Border Radiomic Features (2025, Submitted - Medical Image Analysis)
 - Understanding slow compression of frictional granular particles, August 2024, Soft Matter
 - On transitions in granular packings exposed to compression, August 2025, Royal Society of Chemistry Book Chapter
 - Evolution of force networks during stick-slip motion of an intruder in a granular material: Topological measures extracted from experimental data, November 2023, Phys. Rev. E
