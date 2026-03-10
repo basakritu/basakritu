@@ -31,8 +31,6 @@ I bridge the gap between complex mathematical theory and high-performance ML pip
 
 ## 📫 Get in Touch
 - ✉️ Email: rituparnabasak34@gmail.com  
-- 🧠 LinkedIn: https://www.linkedin.com/in/rituparna-basak-phd-1b8480138/  
-- 🔬 Google Scholar: https://scholar.google.com/citations?user=kTGQRXgAAAAJ&hl=en
 
 ---
 🚀 Current Focus: Scaling Deep Learning workflows & competitive Data Science on Kaggle.
