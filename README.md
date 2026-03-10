@@ -1,7 +1,7 @@
 # 👋 Hi there!
 
 🎓 PhD in Applied Mathematics | 🧠 Postdoctoral Associate in Radiation Oncology at Stony Brook University  
-🔬 AI/ML Researcher | 📊 Medical Image Analysis | 🎯 Predictive Modeling
+🔬 AI/ML Researcher | 📊 Medical Image Analysis | 🎯 Predictive Modeling 
 
 ---
 
