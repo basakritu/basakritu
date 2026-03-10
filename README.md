@@ -10,9 +10,6 @@ I bridge the gap between complex mathematical theory and high-performance ML pip
 
 ---
 🚀 Current Focus: Scaling Deep Learning workflows & competitive Data Science on Kaggle.
-* 🛠 Stack: PyTorch, TensorFlow, AWS (SageMaker), SQL, & Topological Data Analysis.🤝 Collaboration: Open to Kaggle teammates for Computer Vision or Time-Series challenges!
-* 📫 Contact: rituparnabasak34@gmail.com
-
 ---
 
 ## 🛠️ Technical Skills
