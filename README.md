@@ -9,8 +9,6 @@
 I bridge the gap between complex mathematical theory and high-performance ML pipelines. I’m passionate about applying machine learning and artificial intelligence in healthcare, with a strong focus on medical image segmentation, predictive modeling, and topological data analysis. My work involves multimodal data analysis, radiomic feature engineering, and the development of robust ML pipelines for clinical decision support.
 
 ---
-🚀 Current Focus: Scaling Deep Learning workflows & competitive Data Science on Kaggle.
----
 
 ## 🛠️ Technical Skills
 - **Languages**: Python, MATLAB, R  
@@ -60,5 +58,6 @@ I bridge the gap between complex mathematical theory and high-performance ML pip
 - 🔬 Google Scholar: https://scholar.google.com/citations?user=kTGQRXgAAAAJ&hl=en
 
 ---
-
+🚀 Current Focus: Scaling Deep Learning workflows & competitive Data Science on Kaggle.
+---
 ⭐ **Thanks for visiting! Feel free to explore my work or connect!**
