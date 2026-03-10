@@ -6,7 +6,7 @@
 ---
 
 ## 🧪 About Me
-I’m passionate about applying machine learning and artificial intelligence in healthcare, with a strong focus on medical image segmentation, predictive modeling, and topological data analysis. My work involves multimodal data analysis, radiomic feature engineering, and developing robust ML pipelines for clinical decision support.
+I bridge the gap between complex mathematical theory and high-performance ML pipelines. I’m passionate about applying machine learning and artificial intelligence in healthcare, with a strong focus on medical image segmentation, predictive modeling, and topological data analysis. My work involves multimodal data analysis, radiomic feature engineering, and the development of robust ML pipelines for clinical decision support.
 
 ---
 
@@ -18,10 +18,13 @@ I’m passionate about applying machine learning and artificial intelligence in 
 - **Specialized Areas**: Radiomics, Feature Selection, Peritumoral Analysis, Skin Lesion Classification
 
 ---
-
+🚀 Current Focus: Scaling Deep Learning workflows & competitive Data Science on Kaggle.
+🛠 Stack: PyTorch, TensorFlow, AWS (SageMaker), SQL, & Topological Data Analysis.🤝 Collaboration: Open to Kaggle teammates for Computer Vision or Time-Series challenges!
+📫 Contact: rituparnabasak34@gmail.com
+  
 ## 📂 Featured Projects
 
-### 🩺 Skin Lesion Classification Using Radiomics and Random Forest
+### 🩺 Skin Lesion Classification Using Radiomics and Deep Learning
 > Classification of HAM10000 skin lesion types using handcrafted radiomic features and ensemble ML models.
 
 - 🔗 https://github.com/basakritu/medical_image_analysis
