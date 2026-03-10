@@ -18,33 +18,6 @@ I bridge the gap between complex mathematical theory and high-performance ML pip
 - **Specialized Areas**: Radiomics, Feature Selection, Peritumoral Analysis, Skin Lesion Classification
 
 ---
-  
-## 📂 Featured Projects
-
-### 🩺 Skin Lesion Classification Using Radiomics and Deep Learning
-> Classification of HAM10000 skin lesion types using handcrafted radiomic features and ensemble ML models.
-
-- 🔗 https://github.com/basakritu/medical_image_analysis
-- 📊 Techniques: Feature extraction, lesion border analysis, Random Forest
-- 🧠 Keywords: Skin cancer, dermoscopy, feature importance
-
----
-
-### 🫁 Peritumoral Radiomics in Lung Cancer SBRT Patients
-> Predicting regional/distant failure using planning CTs and peritumoral radiomics.
-
-- 🧪 Extracted 100+ features from peritumoral rings (3-15mm)
-- 🧠 Trained classifiers to stratify risk groups
-
----
-
-### 🧠 Multi-modal Fusion for Brain Tumor Segmentation (BraTS)
-> Combined MRI modalities with U-Net and radiomic features for brain tumor segmentation.
-
-- 🧠 Deep learning + handcrafted features
-- 🧪 Techniques: MONAI, 3D U-Net, Dice Loss optimization
-
----
 
 ## 📜 Publications
 - Skin Lesion Subtype Classification Using Lesion and Border Radiomic Features (2025, Submitted - Medical Image Analysis)
