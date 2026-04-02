@@ -11,13 +11,6 @@ I bridge the gap between complex mathematical theory and high-performance ML pip
 ---
 
 ## 🛠️ Technical Skills
-•	Machine Learning Skills: Neural Networks (convolutional, recurrent, autoencoders), Q-learning reinforcement learning, Random Forest, Support Vector Machines, statistical modeling (regression)
-•	Data Visualization Skills: Proficient in Microsoft Power BI, Tableau
-•	Programming Languages:  Proficient in Python (XGBoost, pandas, numpy, tensorflow, scikit-learn), R, SQL, SAS                                       
-•	Tools: Proficient in Jupyter, VS code, Hadoop, Git, Spark, Microsoft Office
-•	Operating Systems: Linux, Windows
-<img width="471" height="108" alt="image" src="https://github.com/user-attachments/assets/d7dc2a71-ccf8-4bc3-8934-5703fa4fd69a" />
-
 - **Languages**: Python, MATLAB, R  
 - **ML Frameworks**: Neural Networks (convolutional, recurrent, autoencoders), Q-learning reinforcement learning, Random Forest, Support Vector Machines, statistical modeling (regression)
 - **Data Visualization**: Proficient in Microsoft Power BI, Tableau
